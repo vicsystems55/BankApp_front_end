@@ -1,16 +1,5 @@
 <template>
   <div class="hello">
-    <h1>Welcome to our bank app built with vue</h1>
-    <p>
-      Developers:
-      
-    </p>
-    <p>
-      Mr. Sunday
-    </p>
-    <p>
-      Mr. Victor (vicSystems)
-    </p>
    
   </div>
 </template>
